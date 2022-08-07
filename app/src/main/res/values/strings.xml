@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ATPlatformTest</string>
+    <string name="title_home">行情</string>
+    <string name="title_dashboard">交易</string>
+</resources>
